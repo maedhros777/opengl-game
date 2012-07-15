@@ -1,1 +1,1 @@
-Hello world!
+This project is a collection of classes for OpenGL, meant to be turned into something more specific. The ultimate aim is a first-person laser shooter, set in a maze with skeletal animation for enemies and simple pathfinding. The main source file is main.cpp, and al other source files are located in source/.
