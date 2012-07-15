@@ -1,0 +1,8 @@
+struct Bone
+{
+	float length;
+	unsigned int id;
+	float quaternion[4];
+	unsigned short num_children;
+	Bone children[num_children];
+};

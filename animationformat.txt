@@ -1,0 +1,14 @@
+struct Keyframe
+{
+	float quaternion[4];
+	unsigned int time;
+};
+
+struct Bone
+{
+	unsigned int id, num_keyframes;
+	Keyframe keyframes[num_keyframes];
+};
+
+unsigned int length, num_bones;
+Bone bones[num_bones];

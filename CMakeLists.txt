@@ -1,0 +1,8 @@
+cmake_minimum_required (VERSION 2.6)
+project (3DLIB)
+find_package (OpenGL)
+find_package (GLU)
+find_package (SDL)
+set(CMAKE_CXX_FLAGS "-Wall -Werror -Wno-char-subscripts -DDEBUG -g")
+add_subdirectory (source)
+add_subdirectory (build)

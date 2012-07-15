@@ -1,0 +1,2 @@
+/home/michael/C++/3DLib/build/CMakeFiles/3dlib.dir
+/home/michael/C++/3DLib/source/CMakeFiles/source.dir
