@@ -1,0 +1,62 @@
+An error occurred while loading mesh file: file "Meshes/untitled.mesh" not found
+An error occurred while loading mesh file: file "Meshes/untitled.mesh" not found
+An error occurred while loading mesh file: skeleton "°ýð­ÿ" not found
+An error occurred while loading mesh file: skeleton "Armature" not found
+An error occurred while loading idle animation file: file "Animations/Armature/idle.animation" not found
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 204: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 204: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 206: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 206: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 206: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 206: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 214: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 215: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 216: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 214: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 215: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 217: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An assertion failed in "/home/michael/C++/3DLib/source/Animation.cpp" on line 205: data.find(id) != data.end()
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #1 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #5 must be equal to skeleton default)
+An error occurred while animating mesh: animation error (first keyframe of animation for bone #6 must be equal to skeleton default)
+An error occurred while loading mesh file: skeleton " ªË™ÿ" not found
+An error occurred while loading mesh file: skeleton "P
+ë­ÿ" not found
+An error occurred while loading mesh file: skeleton "p~¨Pÿ" not found
+An error occurred while loading mesh file: skeleton "ð’§" not found
+An error occurred while loading mesh file: skeleton "Armature" not found
+An error occurred while loading mesh file: skeleton "Armature" not found
+An error occurred while loading mesh file: skeleton "HumanSkel" not found
+An error occurred while loading skeleton file: file "Skeletons/human.skeleton" not found
+An error occurred while loading idle animation file: file "Animations/humanskel/idle.animation" not found
+An error occurred while loading mesh file: skeleton "HumanSkel" not found
+An error occurred while loading skeleton file: file "Skeletons/humanskel.skeleton" not found
+An error occurred while loading skeleton file: file "Skeletons/humanskel.skeleton" not found
+An error occurred while loading skeleton file: file "Skeletons/humanskel.skeleton" not found
+An error occurred while loading idle animation file: file "Animations/HumanSkel/idle.animation" not found
